@@ -1,6 +1,6 @@
-# [Título del trabajo]
+# [Semáforos para trenes]
 
-[Semáfaros para trenes]
+[]
 
 ## Integrantes del equipo
 
@@ -10,4 +10,4 @@ Javier Monrio García: Javiermonrio]
 
 ## Objetivos del trabajo
 
-[Lista de los objetivos que se persiguen con el trabajo propuesto.]
+[El objetivo de este proyecto es crear un semáforo para un paso de nivel con barrera, capaz de medir y gestionar horarios de tren.]
