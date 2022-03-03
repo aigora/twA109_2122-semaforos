@@ -1,10 +1,12 @@
 # [Título del trabajo]
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
+[Semáfaros para trenes]
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+[Marta Sánchez Ferrer: marta-sferrer
+Yaacob Tkach Tuati: yacoobtkach
+Javier Monrio García: Javiermonrio]
 
 ## Objetivos del trabajo
 
